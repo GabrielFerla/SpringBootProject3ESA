@@ -580,18 +580,6 @@ A API retorna respostas padronizadas para erros:
 
 ---
 
-## 📞 Contato e Suporte
-
-Para dúvidas ou suporte, entre em contato com os integrantes do grupo:
-
-- Gabriel Ferla - RM550695
-- Henri de Oliveira Lopes - RM98347
-- Lorenzo Gomes Andreata - RM551117
-- Lucas Moreno Matheus - RM97158
-- Victor Flávio Demarchi Viana - RM99389
-
----
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos - FIAP 3ESA.
